@@ -1,0 +1,32 @@
+<Window x:Class="CGClient.WPF.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" SizeToContent="WidthAndHeight"
+        xmlns:cal="http://www.caliburnproject.org">
+    <Grid Background="White">
+        <StackPanel Orientation="Horizontal">
+            <TextBox x:Name="Code" 
+              TextWrapping="Wrap"
+              AcceptsReturn="True"
+              BorderBrush="Black"
+              BorderThickness="3"
+              Height="800"
+              Width="600"
+              VerticalScrollBarVisibility="Visible"/>
+            <ListBox Name="PlayerResults" Height="800" Width="300"
+              MaxHeight="800" SelectedItem="{Binding SelectedPlayerResult}"  cal:Message.Attach="[Event MouseDoubleClick] = [Action Run()]">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Path=Player.Name}" />
+                            <TextBlock Text="{Binding Path=Win}"/>
+                            <TextBlock Text="{Binding Path=Lose}"/>
+                            <TextBlock Text="{Binding Path=Draw}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+        
+    </Grid>
+
+</Window>

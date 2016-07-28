@@ -1,0 +1,12 @@
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\obj\Debug\CGClient.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\CGClient.Infrastructure.dll.config
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\CGClient.Infrastructure.dll
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\CGClient.Infrastructure.pdb
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\obj\Debug\CGClient.Infrastructure.dll
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\obj\Debug\CGClient.Infrastructure.pdb
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\Caliburn.Micro.dll
+D:\Projects\azat-jalilov\CGClient\CGClient.Infrastructure\bin\Debug\Caliburn.Micro.xml

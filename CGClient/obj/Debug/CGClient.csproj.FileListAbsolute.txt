@@ -1,0 +1,10 @@
+D:\Projects\azat-jalilov\CGClient\CGClient\bin\Debug\CGClient.exe.config
+D:\Projects\azat-jalilov\CGClient\CGClient\bin\Debug\CGClient.exe
+D:\Projects\azat-jalilov\CGClient\CGClient\bin\Debug\CGClient.pdb
+D:\Projects\azat-jalilov\CGClient\CGClient\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\azat-jalilov\CGClient\CGClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\azat-jalilov\CGClient\CGClient\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\azat-jalilov\CGClient\CGClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\azat-jalilov\CGClient\CGClient\obj\Debug\CGClient.csprojResolveAssemblyReference.cache
+D:\Projects\azat-jalilov\CGClient\CGClient\obj\Debug\CGClient.exe
+D:\Projects\azat-jalilov\CGClient\CGClient\obj\Debug\CGClient.pdb
